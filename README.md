@@ -2,8 +2,11 @@
 ==============
 
 신라미터기는 테라 DPS 미터기 입니다.
+
 이 리포지토리는 베이스 버전에서 한국 서버에 맞게 수정을 하기 위해 생성하였습니다.
+
 (베이스 버전: https://github.com/neowutran/ShinraMeter - dev by Gl0 and Yukikoo/Neowutran)
+
 (오리지널 버전: https://github.com/gothos-folly/TeraDamageMeter)
 
 
