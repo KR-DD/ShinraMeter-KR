@@ -9,6 +9,9 @@
 
 (오리지널 버전: https://github.com/gothos-folly/TeraDamageMeter)
 
+(사용 설명서: https://github.com/KR-DD/ShinraMeter-KR/wiki)
+미터기 설치방법, event 알림 변경방법
+
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 
